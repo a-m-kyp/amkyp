@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Twitter: @localnhost
+Email: amkyp@protonmail.com
+Mastadon: @Localnhost@mastodon.social
+
 <!--
 **amkyp/amkyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
