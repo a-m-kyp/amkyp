@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Twitter: @localnhost
-- Email: amkyp@protonmail.com
 - Mastadon: @Localnhost@mastodon.social
 
 <!--
