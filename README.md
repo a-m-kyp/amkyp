@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- Twitter: @localnhost
 - Mastadon: @Localnhost@mastodon.social
 
 <!--
